@@ -490,6 +490,10 @@ h6,
   background-color: #cccccc;
   border-color: #cccccc;
 }
+#header3-1i .mbr-section-title,
+#header3-1i .mbr-section-subtitle {
+  text-align: center;
+}
 #content2-8 SPAN {
   font-size: 20px;
   font-family: 'Oxygen', sans-serif;
