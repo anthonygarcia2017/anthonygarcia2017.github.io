@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.8",
     "uniqCompNum": 56,
-    "versionPublish": "3.11.1"
+    "versionPublish": "3.10.8"
   },
   "pages": {
     "index.html": {
@@ -111,10 +111,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-384x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -134,6 +134,9 @@
               "color": "#fff"
             },
             "H3": {
+              "text-align": "right"
+            },
+            "P": {
               "text-align": "right"
             }
           },
@@ -160,10 +163,10 @@
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "inverse": false,
+            "inverse": true,
             "showTitle": true,
-            "showText": false,
-            "showButtons": false
+            "showText": true,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -187,9 +190,9 @@
               "size": 250
             }
           },
-          "title": "Anthony Garcia&nbsp;",
-          "text": "This is an intro with beautiful background video and image on the left side.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "title": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Anthony Garcia &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>",
+          "text": "Ever since I could pick up a pencil, I loved to desgin things. I would sit in my room for hours and hours &nbsp;drawing and doodiling and still do to this day. &nbsp;Over the years my skills have progressed but late last year a new page for design had turned for me, I got introduced to digital/graphic design. &nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#content7-1j\" data-toolbar=\"-mbrBtnMove\">Biography Continued</a>"
         },
         {
           "_inherit": "features4",
@@ -342,7 +345,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "Biography",
+          "title": "Biography Continued",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -357,7 +360,7 @@
             "bgColor": "#fff"
           },
           "text1": "",
-          "text2": "As a young child I have always been intrested in design. Ever since I could pick up a pencil I would draw for hours non-stop. &nbsp;Also, when I was a young child I would watch my father work on his 1998 Ford Mustang, and even help him on it. Now that I am older I have came across the carrer oppurtunity of \"automobile desgin\" which combines my love of art, and automobiles. I plan in the future to do a job that I am passionate about and truly love.",
+          "text2": "In these past couple of months my design skills have been increasing by the day and I have been producing more and more work. Also, this year I will be learning new programs and new certifications.",
           "text3": ""
         },
         {
@@ -388,7 +391,7 @@
           "_name": "contacts1",
           "_anchor": "contacts1-j",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -401,7 +404,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-128x42.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -502,10 +505,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-384x128-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -601,10 +604,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-384x128-2.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -700,10 +703,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-384x128-3.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -799,10 +802,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-384x128-4.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -898,10 +901,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-384x128-5.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -997,10 +1000,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-384x128-6.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1096,10 +1099,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-384x128-7.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1195,10 +1198,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-384x128-8.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1294,10 +1297,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-384x128-9.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1317,7 +1320,7 @@
           "_name": "contacts1",
           "_anchor": "contacts1-r",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -1330,7 +1333,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-128x42-1.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -1431,10 +1434,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-384x128-10.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1454,7 +1457,7 @@
           "_name": "contacts1",
           "_anchor": "contacts1-t",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -1467,7 +1470,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-128x42-2.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -1568,10 +1571,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-384x128-11.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1591,7 +1594,7 @@
           "_name": "contacts1",
           "_anchor": "contacts1-v",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -1604,7 +1607,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-128x42-3.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -1705,10 +1708,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-384x128-12.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1728,7 +1731,7 @@
           "_name": "contacts1",
           "_anchor": "contacts1-x",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -1741,7 +1744,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-128x42-4.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -1842,10 +1845,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-384x128-13.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1865,7 +1868,7 @@
           "_name": "contacts1",
           "_anchor": "contacts1-z",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -1878,7 +1881,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-128x42-5.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -1979,10 +1982,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-384x128-14.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2002,7 +2005,7 @@
           "_name": "contacts1",
           "_anchor": "contacts1-13",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -2015,7 +2018,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-128x42-6.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -2116,10 +2119,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-384x128-15.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2139,7 +2142,7 @@
           "_name": "contacts1",
           "_anchor": "contacts1-15",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -2152,10 +2155,10 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-128x42-7.png",
               "width": 128,
               "active": true,
-              "link": "",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -2253,10 +2256,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-384x128-16.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2276,7 +2279,7 @@
           "_name": "contacts1",
           "_anchor": "contacts1-17",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -2289,7 +2292,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-128x42-8.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -2390,10 +2393,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-384x128-17.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2413,7 +2416,7 @@
           "_name": "contacts1",
           "_anchor": "contacts1-19",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -2426,7 +2429,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-128x42-9.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -2527,10 +2530,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-384x128-18.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2550,7 +2553,7 @@
           "_name": "contacts1",
           "_anchor": "contacts1-1b",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -2563,7 +2566,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-128x42-10.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -2664,10 +2667,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-384x128-20.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2687,7 +2690,7 @@
           "_name": "contacts1",
           "_anchor": "contacts1-1d",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -2700,7 +2703,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-128x42-11.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -2852,10 +2855,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-384x128-21.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2875,7 +2878,7 @@
           "_name": "contacts1",
           "_anchor": "contacts1-1g",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -2888,7 +2891,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signatre-128x42-12.png",
               "width": 128,
               "active": true,
               "link": "",

@@ -483,6 +483,9 @@ h6,
 #msg-box6-6 H3 {
   text-align: right;
 }
+#msg-box6-6 P {
+  text-align: right;
+}
 #features7-a .card-subtitle {
   color: #bcbcbc;
 }
