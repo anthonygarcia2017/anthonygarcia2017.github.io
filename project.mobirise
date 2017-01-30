@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.8",
     "uniqCompNum": 63,
-    "versionPublish": "3.11.1"
+    "versionPublish": "3.10.8"
   },
   "pages": {
     "index.html": {
@@ -285,7 +285,7 @@
           },
           "title4": "Home Contractor",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "As i grew up, I would always watch my father make blue prints and soon watch those blueprints come to life. He would convert whole rooms into anything the client wanted.",
+          "caption4": "As I grew up, I would always watch my father make blue prints and soon watch those blueprints come to life. He would convert whole rooms into anything the client wanted. I believe I can combine my graphic design skills and past expirience to ve very good at contracting.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -533,9 +533,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-png-128x42.png",
               "width": 128,
-              "active": true
+              "active": true,
+              "link": "#top",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
