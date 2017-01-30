@@ -191,7 +191,7 @@
             }
           },
           "title": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Anthony Garcia &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>",
-          "text": "Ever since I could pick up a pencil, I loved to design things. I would sit in my room for hours and hours &nbsp;drawing and doodling and still do to this day. &nbsp;Over the years my skills have progressed but late last year a new page for design had turned for me, I got introduced to digital/graphic design. &nbsp;&nbsp;",
+          "text": "Ever since I could pick up a pencil I loved to design things. I would sit in my room for hours and hours &nbsp;drawing and doodling and still do to this day. &nbsp;Over the years my skills have progressed but late last year a new page for design had turned for me, I got introduced to digital/graphic design. &nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#content6-1l\" data-toolbar=\"-mbrBtnMove\">Biography Continued</a>"
         },
         {
@@ -337,7 +337,7 @@
               "color": "#000000"
             },
             "H3": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-size": "30px",
               "text-align": "right"
             },
@@ -356,7 +356,7 @@
             "bgColor": "#efefef",
             "showMeta": true
           },
-          "title": "<i>\"There are no secrets to success. It is the result of preparation, hard work, and learning from failure.\"</i>",
+          "title": "\"There are no secrets to success. It is the result of preparation, hard work, and learning from failure.\"",
           "meta": "-Colin Powell"
         },
         {
