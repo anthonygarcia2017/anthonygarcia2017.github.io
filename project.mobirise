@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.8",
-    "uniqCompNum": 59,
-    "versionPublish": "3.10.8"
+    "uniqCompNum": 63,
+    "versionPublish": "3.11.1"
   },
   "pages": {
     "index.html": {
@@ -64,13 +64,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#5d5d5d"
+              "background": "#202123"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#6e6e6e!important"
+              "background": "#323235!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#767676"
+              "background": "#393a3d"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -92,7 +92,7 @@
           "_name": "menu",
           "_anchor": "menu-1",
           "_params": {
-            "bgColor": "#767676",
+            "bgColor": "#393a3d",
             "fontSize": 0.75,
             "fontName": {
               "name": "Oxygen",
@@ -137,7 +137,7 @@
               "text-align": "right"
             },
             "P": {
-              "text-align": "right"
+              "text-align": "left"
             }
           },
           "_tags": [
@@ -147,8 +147,8 @@
           "_anchor": "msg-box6-6",
           "_params": {
             "imageSize": "28",
-            "paddingTop": "5",
-            "paddingBottom": "5",
+            "paddingTop": "4",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/2014-ferrari-leferrari-engine-blueprint-2000x1328.jpg",
@@ -161,7 +161,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.7",
             "overlayColor": "#000",
             "inverse": true,
             "showTitle": true,
@@ -195,25 +195,15 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#content6-1l\" data-toolbar=\"-mbrBtnMove\">Biography Continued</a>"
         },
         {
-          "_inherit": "features4",
+          "_inherit": "features3",
           "_tags": [
             "Theme"
           ],
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#cccccc",
-              "border-color": "#cccccc"
-            }
-          },
-          "_name": "features7",
-          "_anchor": "features7-a",
+          "_name": "features6",
+          "_anchor": "features6-1o",
           "_params": {
-            "iconsBgColor": "#cccccc",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -235,7 +225,7 @@
           },
           "media1": {
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
+              "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
               "name": "delivery",
               "family": "MobiriseIcons",
@@ -251,9 +241,25 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
+              "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "pages",
+              "name": "desktop",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000000"
+            }
+          },
+          "title2": "Video Game Designer",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "As a child I would always play video games, and have always wondered how to create them. Now that I have aged I have came across the career of video game designer. I can use my graphic design skills to create amazing games.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "globe-2",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -261,50 +267,33 @@
               "color": "#000000"
             }
           },
-          "title2": "Certifications",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "A goal I have set for myslef in the near future, is to be completley certified in the Adobe Suit and the Microsoft Office Suit. Once I have there certifictions, i believe a palithera of career oppurtunities will open up.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "tools",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
-            }
-          },
-          "title3": "Grades",
+          "title3": "Civil Engineer",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "One of my achievments is my grades. All my life i have been getting very good grades, and consecutive honor rolls.",
+          "caption3": "Recently the career of a civil engineer has caught my attetntion. As a civil engineer, I would design bridges, federal buildings, and other goverment projects.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
+              "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "puzzle",
-              "family": "et-line",
+              "name": "home",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
               "color": "#000000"
             }
           },
-          "title4": "NJHS",
+          "title4": "Home Contractor",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "In elementry school I was in a program called National Elementry Honor Society, which is a society for students with good grades, and overall good academic performence. Recently I was enrolled in National Juniors Honor Society (NJHS) which is the Middle school version on NEHS.",
+          "caption4": "As i grew up, I would always watch my father make blue prints and soon watch those blueprints come to life. He would convert whole rooms into anything the client wanted.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
               "family": "et-line"
             }
           },
@@ -315,11 +304,10 @@
           "media6": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
               "family": "et-line"
             }
           },
@@ -361,6 +349,138 @@
         },
         {
           "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#efefef",
+              "border-color": "#efefef"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-1p",
+          "_params": {
+            "iconsBgColor": "#efefef",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 3,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "documents",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title1": "Certifications",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "A goal I have set for myslef in the near future, is to be completley certified in the Adobe Suit and the Microsoft Office Suit. Once I have there certifictions, I believe a palithera of career oppurtunities will open up.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "tools",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title2": "Grades",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of my achievments is my grades. All my life I have been getting very good grades, and consecutive honor rolls. I plan to keep my grades above all standards and excel in anything I do.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "puzzle",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title3": "NJHS",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "In elementry school I was in a program called National Elementry Honor Society, which is a society for students with good grades, and overall good academic performence. Recently I was enrolled in National Juniors Honor Society (NJHS) which is the Middle school version of NEHS.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             }
@@ -373,7 +493,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "showMeta": false
           },
           "title": "Biography",
@@ -388,7 +508,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text1": "<p>&nbsp;&nbsp;&nbsp;&nbsp;Ever since I could pick up a pencil, I loved to design things. I would sit in my room for hours and hours drawing and doodling and still do to this day. Over the years my skills have progressed but late last year a new page for design had turned for me, I got introduced to digital/graphic design. </p><p>&nbsp;&nbsp;&nbsp;&nbsp;In my second year of middle school I got placed in a Technology Productions class. I was a year behind the rest of the students, but I took that as a challenge to keep pushing myself and soon catch up. After several months, my skills have sharpened and I am ready for any obstacle that comes my way. I have gained skills such as, graphic design and web design. &nbsp;&nbsp;</p><p>&nbsp; &nbsp;&nbsp;<br></p>",
           "text2": "I believe joining this program is one of the best decisions I have ever made. I am now eager to learn and will put 100% into anything I do."
@@ -398,14 +518,14 @@
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-j",
+          "_anchor": "contacts1-1q",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "0",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#393a3d",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -413,13 +533,9 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/signatre-128x42.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -427,9 +543,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>15015 SW 24th St, Miami, FL 33185<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: antgarcia@miamiartsstudio.com<br><br>",
-          "text3": ""
+          "text1": "<strong>Address</strong><br>\n14751 SW 144 terr 33196",
+          "text2": "<strong>Contact</strong><br>\nEmail: antgarcia@miamiartsstudio.com<br>\nPhone: 305-798-1145<br><br>",
+          "text3": "<br><br><br><br>"
         }
       ]
     },
