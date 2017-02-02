@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-23_1141",
-    "currentPage": "index.html",
+    "currentPage": "Adobe Photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.8",
-    "uniqCompNum": 70,
-    "versionPublish": "3.11.1"
+    "uniqCompNum": 74,
+    "versionPublish": "3.10.8"
   },
   "pages": {
     "index.html": {
@@ -200,6 +200,11 @@
             "Theme"
           ],
           "_name": "features6",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "features6-1o",
           "_params": {
             "paddingTop": "1",
@@ -314,12 +319,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -518,8 +518,8 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text1": "<p>&nbsp;&nbsp;&nbsp;&nbsp;Ever since I could pick up a pencil, I loved to design things. I would sit in my room for hours and hours drawing and doodling and still do to this day. Over the years my skills have progressed but late last year a new page for design had turned for me, I got introduced to digital/graphic design. </p><p>&nbsp;&nbsp;&nbsp;&nbsp;In my second year of middle school I got placed in a Technology Productions class. I was a year behind the rest of the students, but I took that as a challenge to keep pushing myself and soon catch up. After several months, my skills have sharpened and I am ready for any obstacle that comes my way. I have gained skills such as, graphic design and web design. &nbsp;&nbsp;</p><p>&nbsp; &nbsp;&nbsp;<br></p>",
-          "text2": "I believe joining this program is one of the best decisions I have ever made. I am now eager to learn and will put 100% into anything I do."
+          "text1": "<p>&nbsp;&nbsp;&nbsp;&nbsp;Ever since I could pick up a pencil, I loved to design things. I would sit in my room for hours and hours drawing and doodling and still do to this day. Over the years my skills have progressed but late last year a new page for design had turned for me, I got introduced to digital/graphic design.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">In my second year of middle school I got placed in a Technology Productions class. I was a year behind the rest of the students, but I&nbsp;</span></p><p>&nbsp; &nbsp;&nbsp;<br></p>",
+          "text2": "took that as a challenge to keep pushing myself and soon catch up. After several months, my skills have sharpened and I am ready for any obstacle that comes my way. I have gained skills such as, graphic design and web design. I believe joining this program is one of the best decisions I have ever made. I am now eager to learn and will put 100% into everything I do."
         },
         {
           "_tags": [
@@ -659,6 +659,26 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Introduction</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Adobe Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Office Suit</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Microsoft Word.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Microsoft Powerpoint.html\">Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premeire.html\">Adobe Premeire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Dreamweaver.html\">Adobe Dreamweaver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Photoshop.html\">Industry Certified Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Illustrator.html\">Industry Certified Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Premeire.html\">Industry Certified Adobe Premeire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Animate.html\">Industry Certified Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Dreamweaver.html\">Industry Certified Dreamweaver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Transcript.html\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mr Pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teacher.html\">Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Teacher2.html\">Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Community Member.html\">Community Member</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Work Expirience.html\" aria-expanded=\"false\">Work Expirience</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">Contact</a></li>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-21",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "3",
+            "bgColor": "#efefef",
+            "showMeta": false
+          },
+          "title": "Adobe Photoshop",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
@@ -675,7 +695,47 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/apple-xx-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/apple-xx-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Miami-Dade County Public Schools Logo&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flash-xx-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flash-xx-2000x2000.jpg",
+                "caption": "Flash Logo Build",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hulk-hand-xx-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hulk-hand-xx-2000x2000.jpg",
+                "caption": "Hulk Hand Build",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/iron-man-xx-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/iron-man-xx-2000x2000.jpg",
+                "caption": "Iron Man Face Build",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/album-cover-xx-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/album-cover-xx-2000x2000.jpg",
+                "caption": "Bob Marley Album Cover Build",
                 "active": false
               },
               {
@@ -685,67 +745,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/disc-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/disc-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Bob Marley Record Label",
                 "active": true
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
-                "active": false
               }
             ],
             "spacing": "2",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#000000",
             "filterBgColor": true,
@@ -754,7 +759,12 @@
           },
           "_anchor": "gallery3-1s",
           "articleLayout": false,
-          "allItem": "All"
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     },

@@ -580,6 +580,13 @@ h6,
 #menu-b .dropdown-item[aria-expanded="true"] {
   color: #c1c1c1!important;
 }
+#header3-21 .mbr-section-title,
+#header3-21 .mbr-section-subtitle {
+  text-align: center;
+}
+#gallery3-1s .mbr-gallery-item > div > span {
+  text-align: center;
+}
 
 #menu-c .hide-buttons .nav-btn {
   display: none !important;
