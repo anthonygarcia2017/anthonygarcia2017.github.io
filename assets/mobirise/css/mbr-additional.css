@@ -478,6 +478,10 @@ h6,
 #header1-2f .mbr-section-title {
   text-align: center;
 }
+#header3-2h .mbr-section-title,
+#header3-2h .mbr-section-subtitle {
+  text-align: center;
+}
 #msg-box6-6 .mbr-section-title,
 #msg-box6-6 .lead p {
   color: #fff;
