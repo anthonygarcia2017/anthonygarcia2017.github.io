@@ -132,6 +132,11 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "header1-2f",
           "_params": {
             "parallax": true,
@@ -154,12 +159,7 @@
           },
           "title": "&nbsp; &nbsp;Anthony Garcia",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_styles": {
@@ -580,6 +580,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts3-2d",
           "_params": {
             "paddingTop": "4",
@@ -630,7 +635,7 @@
               "family": "et-line"
             }
           },
-          "text3": "14751 SW 144 terr 33196",
+          "text3": "15015 SW 24th St, Miami, FL 33185",
           "media3": {
             "iconFont": {
               "active": true,
@@ -643,7 +648,7 @@
           "text4": "antgarcia@miamiartsstudio.com",
           "title1": "",
           "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: antgarcia@miamiartsstudio.com<br>Phone: 305-798-1145<br><br><br><strong>Address</strong><br>14751 SW 144 terr 33196",
+          "text6": "<strong>Contacts</strong><br>Email: antgarcia@miamiartsstudio.com<br>Phone: 305-798-1145<br><br><br><strong>Address</strong><br>15015 SW 24th St, Miami, FL 33185<br>",
           "form": {
             "title": "MESSAGE",
             "action": "antgarcia@miamiartsstudio.com",
@@ -672,12 +677,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -914,6 +914,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts3-2d",
           "_params": {
             "paddingTop": "4",
@@ -1006,12 +1011,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -1137,6 +1137,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts3-2d",
           "_params": {
             "paddingTop": "4",
@@ -1229,12 +1234,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -1380,6 +1380,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts3-2d",
           "_params": {
             "paddingTop": "4",
@@ -1472,12 +1477,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -1603,6 +1603,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts3-2d",
           "_params": {
             "paddingTop": "4",
@@ -1695,12 +1700,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -1826,6 +1826,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts3-2d",
           "_params": {
             "paddingTop": "4",
@@ -1918,12 +1923,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -2049,6 +2049,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts3-2d",
           "_params": {
             "paddingTop": "4",
@@ -2141,12 +2146,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -2272,6 +2272,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts3-2d",
           "_params": {
             "paddingTop": "4",
@@ -2364,12 +2369,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -2475,6 +2475,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts3-2d",
           "_params": {
             "paddingTop": "4",
@@ -2567,12 +2572,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -2678,6 +2678,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts3-2d",
           "_params": {
             "paddingTop": "4",
@@ -2770,12 +2775,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -2881,6 +2881,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts3-2d",
           "_params": {
             "paddingTop": "4",
@@ -2973,12 +2978,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -3084,6 +3084,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts3-2d",
           "_params": {
             "paddingTop": "4",
@@ -3176,12 +3181,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -3287,6 +3287,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts3-2d",
           "_params": {
             "paddingTop": "4",
@@ -3379,12 +3384,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -3490,6 +3490,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts3-2d",
           "_params": {
             "paddingTop": "4",
@@ -3582,12 +3587,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -3693,6 +3693,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts3-2d",
           "_params": {
             "paddingTop": "4",
@@ -3785,12 +3790,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -3896,6 +3896,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts3-2d",
           "_params": {
             "paddingTop": "4",
@@ -3988,12 +3993,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -4099,6 +4099,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts3-2d",
           "_params": {
             "paddingTop": "4",
@@ -4191,12 +4196,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -4302,6 +4302,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts3-2d",
           "_params": {
             "paddingTop": "4",
@@ -4394,12 +4399,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -4506,6 +4506,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts3-2d",
           "_params": {
             "paddingTop": "4",
@@ -4598,12 +4603,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         }
       ]
     }
