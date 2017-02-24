@@ -1854,6 +1854,10 @@ h6,
 #gallery2-2p .mbr-gallery-item > div > span {
   text-align: center;
 }
+#social-buttons4-30 .mbr-section-title,
+#social-buttons4-30 .btn-social {
+  color: #fff;
+}
 #contacts3-2l SPAN {
   color: #ffffff;
 }
