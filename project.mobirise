@@ -5012,7 +5012,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/apple-xx-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/apple-xx-2000x20000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/apple-xx-2000x20003.jpg",
                 "caption": "Miami-Dade County Public Schools Logo Build",
                 "active": false
               },
@@ -5032,7 +5032,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/hulk-hand-xx-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/hulk-hand-xx-2000x20001.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hulk-hand-xx-2000x20004.jpg",
                 "caption": "Hulk Hand Re-Draw",
                 "active": false
               },
@@ -5042,7 +5042,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/12-inch-xx-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/12-inch-xx-2000x20002.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12-inch-xx-2000x20005.jpg",
                 "caption": "Bob Marley Composite",
                 "active": true
               }
