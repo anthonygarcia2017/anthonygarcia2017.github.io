@@ -361,7 +361,7 @@
     },
     "Microsoft Powerpoint.html": {
       "settings": {
-        "title": "Microsoft Powerpoint"
+        "title": "Anthony Garcia"
       },
       "components": [
         {
@@ -584,7 +584,7 @@
     },
     "Adobe Illustrator.html": {
       "settings": {
-        "title": "Adobe Illustrator"
+        "title": "Anthony Garcia"
       },
       "components": [
         {
@@ -827,7 +827,7 @@
     },
     "Adobe Premeire.html": {
       "settings": {
-        "title": "Adobe Premeire"
+        "title": "Anthony Garcia"
       },
       "components": [
         {
@@ -1050,7 +1050,7 @@
     },
     "Adobe Animate.html": {
       "settings": {
-        "title": "Adobe Animate"
+        "title": "Anthony Garcia"
       },
       "components": [
         {
@@ -1273,7 +1273,7 @@
     },
     "Adobe Dreamweaver.html": {
       "settings": {
-        "title": "Adobe Dreamweaver"
+        "title": "Anthony Garcia"
       },
       "components": [
         {
@@ -1496,7 +1496,7 @@
     },
     "123D.html": {
       "settings": {
-        "title": "123D"
+        "title": "Anthony Garcia"
       },
       "components": [
         {
@@ -1719,7 +1719,7 @@
     },
     "Industry Certified Photoshop.html": {
       "settings": {
-        "title": "Industry Certified Photoshop"
+        "title": "Anthony Garcia"
       },
       "components": [
         {
@@ -1922,7 +1922,7 @@
     },
     "Industry Certified Adobe Illustrator.html": {
       "settings": {
-        "title": "Industry Certified Adobe Illustrator"
+        "title": "Anthony Garcia"
       },
       "components": [
         {
@@ -2125,7 +2125,7 @@
     },
     "Industry Certified Adobe Premeire.html": {
       "settings": {
-        "title": "Industry Certified Adobe Premeire"
+        "title": "Anthony Garcia"
       },
       "components": [
         {
@@ -2328,7 +2328,7 @@
     },
     "Industry Certified Adobe Animate.html": {
       "settings": {
-        "title": "Industry Certified Adobe Animate"
+        "title": "Anthony Garcia"
       },
       "components": [
         {
@@ -2531,7 +2531,7 @@
     },
     "Industry Certified Dreamweaver.html": {
       "settings": {
-        "title": "Industry Certified Dreamweaver"
+        "title": "Anthony Garcia"
       },
       "components": [
         {
@@ -2734,7 +2734,7 @@
     },
     "Transcript.html": {
       "settings": {
-        "title": "Transcript"
+        "title": "Anthony Garcia"
       },
       "components": [
         {
@@ -2937,7 +2937,7 @@
     },
     "Mr Pate.html": {
       "settings": {
-        "title": "Mr.Pate"
+        "title": "Anthony Garcia"
       },
       "components": [
         {
@@ -3140,7 +3140,7 @@
     },
     "Teacher2.html": {
       "settings": {
-        "title": "Teacher2"
+        "title": "Anthony Garcia"
       },
       "components": [
         {
@@ -3343,7 +3343,7 @@
     },
     "teacher.html": {
       "settings": {
-        "title": "Teacher"
+        "title": "Anthony Garcia"
       },
       "components": [
         {
@@ -3546,7 +3546,7 @@
     },
     "Community Member.html": {
       "settings": {
-        "title": "Community Member"
+        "title": "Anthony Garcia"
       },
       "components": [
         {
@@ -3749,7 +3749,7 @@
     },
     "Work Expirience.html": {
       "settings": {
-        "title": "Work Expirience",
+        "title": "Anthony Garcia",
         "meta_descr": "Web Page Builder Description"
       },
       "components": [
@@ -3954,7 +3954,7 @@
     "Introduction.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Anthony Garcia",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -5012,7 +5012,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/apple-xx-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/apple-xx-2000x20000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/apple-xx-2000x20003.jpg",
                 "caption": "Miami-Dade County Public Schools Logo Build",
                 "active": false
               },
@@ -5032,7 +5032,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/hulk-hand-xx-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/hulk-hand-xx-2000x20001.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hulk-hand-xx-2000x20004.jpg",
                 "caption": "Hulk Hand Re-Draw",
                 "active": false
               },
@@ -5042,7 +5042,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/12-inch-xx-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/12-inch-xx-2000x20002.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12-inch-xx-2000x20005.jpg",
                 "caption": "Bob Marley Composite",
                 "active": true
               }
