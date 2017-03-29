@@ -5379,7 +5379,7 @@
           "_anchor": "content8-2t",
           "_params": {
             "paddingTop": "5",
-            "paddingBottom": 3,
+            "paddingBottom": "5",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
@@ -5388,7 +5388,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/6QRhOPAhptM?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/-RqvxCYhvro?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
@@ -5398,7 +5398,7 @@
             "showCaption": false
           },
           "title": "",
-          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "caption": "What Makes Me a Digital Artist"
         },
         {
           "_styles": {
@@ -5444,7 +5444,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/apple-xx-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/apple-xx-2000x200030.jpg",
+                "image": "@PROJECT_PATH@/assets/images/apple-xx-2000x20000.jpg",
                 "caption": "Miami-Dade County Public Schools Logo Build",
                 "active": false
               },
@@ -5464,7 +5464,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/hulk-hand-xx-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/hulk-hand-xx-2000x200031.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hulk-hand-xx-2000x20001.jpg",
                 "caption": "Hulk Hand Re-Draw",
                 "active": false
               },
@@ -5474,7 +5474,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/12-inch-xx-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/12-inch-xx-2000x200032.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12-inch-xx-2000x20002.jpg",
                 "caption": "Bob Marley Composite",
                 "active": true
               }
@@ -5735,7 +5735,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-1-2000x200033.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-1-2000x20003.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -5749,7 +5749,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-2-2000x200034.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-2-2000x20004.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -5763,7 +5763,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-3-2000x200035.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-3-2000x20005.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -5777,7 +5777,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-4-2000x200036.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-4-2000x20006.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -5791,7 +5791,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-5-2000x200037.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-5-2000x20007.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -5805,7 +5805,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-6-2000x200038.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-6-2000x20008.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -5819,7 +5819,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-7-2000x200039.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-7-2000x20009.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -5833,7 +5833,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-10-2000x200040.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-10-2000x200010.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -5847,7 +5847,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-11-2000x200041.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-11-2000x200011.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -5861,7 +5861,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-12-2000x200042.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-12-2000x200012.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -5875,7 +5875,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-13-2000x200043.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-13-2000x200013.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -5889,7 +5889,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-14-2000x200044.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-14-2000x200014.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -5903,7 +5903,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-15-2000x200045.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-15-2000x200015.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -5917,7 +5917,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-16-2000x200046.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-16-2000x200016.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -5931,7 +5931,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-17-2000x200047.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-17-2000x200017.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -5945,7 +5945,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-19-2000x200048.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-19-2000x200018.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -5959,7 +5959,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-20-2000x200049.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-20-2000x200019.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -5973,7 +5973,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-20-2000x200049.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-20-2000x200019.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -5987,7 +5987,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-21-2000x200050.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-21-2000x200020.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -6001,7 +6001,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-22-2000x200051.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-22-2000x200021.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -6015,7 +6015,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-23-2000x200052.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-23-2000x200022.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -6029,7 +6029,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-24-2000x200053.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-24-2000x200023.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -6043,7 +6043,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-25-2000x200054.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-25-2000x200024.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -6057,7 +6057,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-26-2000x200055.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-26-2000x200025.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -6071,7 +6071,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-27-2000x200056.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-27-2000x200026.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -6085,7 +6085,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-28-2000x200057.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-28-2000x200027.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -6099,7 +6099,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-29-2000x200058.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-29-2000x200028.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -6113,7 +6113,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-30-2000x200059.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anthony-garcia-30-2000x200029.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
