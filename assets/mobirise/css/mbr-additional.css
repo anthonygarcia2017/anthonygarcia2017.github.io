@@ -1843,10 +1843,12 @@ h6,
 #features6-2q P {
   text-align: left;
 }
-#content8-2t .mbr-section-title,
-#content8-2t p {
-  text-align: right;
-  color: #fff;
+#header5-3s .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+}
+#header5-3s .mbr-section-lead {
+  color: #9c9a9a;
 }
 #header3-2u .mbr-section-title,
 #header3-2u .mbr-section-subtitle {
