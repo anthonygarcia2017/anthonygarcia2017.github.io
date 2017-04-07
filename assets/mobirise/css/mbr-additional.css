@@ -699,9 +699,11 @@ h6,
 #menu-m .dropdown-item[aria-expanded="true"] {
   color: #c1c1c1!important;
 }
-#header3-1x .mbr-section-title,
-#header3-1x .mbr-section-subtitle {
-  text-align: center;
+#header5-3t .mbr-section-title {
+  color: #ffffff;
+}
+#header5-3t .mbr-section-lead {
+  color: #9c9a9a;
 }
 #contacts3-2d SPAN {
   color: #ffffff;
