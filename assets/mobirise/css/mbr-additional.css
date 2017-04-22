@@ -700,10 +700,16 @@ h6,
   color: #c1c1c1!important;
 }
 #header5-3t .mbr-section-title {
-  color: #ffffff;
+  color: #000000;
 }
 #header5-3t .mbr-section-lead {
   color: #9c9a9a;
+}
+#header5-3u .mbr-section-title {
+  color: #000;
+}
+#header5-3u .mbr-section-lead {
+  color: #000000;
 }
 #contacts3-2d SPAN {
   color: #ffffff;

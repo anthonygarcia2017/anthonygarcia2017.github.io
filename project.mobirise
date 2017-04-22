@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.8",
-    "uniqCompNum": 138,
+    "uniqCompNum": 139,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -1358,7 +1358,7 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".mbr-section-lead": {
               "color": "#9c9a9a"
@@ -1371,11 +1371,11 @@
           "_anchor": "header5-3t",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
             "bgColor": "#000000",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -1391,6 +1391,44 @@
           "title": "Imagine Dragons Piece",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://www.youtube.com/watch?v=eO2jQYC2ijs\" data-toolbar=\"-mbrBtnMove\">Click Here</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-3u",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1500.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "A Thousand Million Reasons",
+          "text": "A story of my life with the song \"A Thousand Million Reasons\" By Colin Hay, In the background",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://www.youtube.com/watch?v=9eXhU7ywxiY\" data-toolbar=\"-mbrBtnMove\">Click Here</a>"
         },
         {
           "_tags": [
