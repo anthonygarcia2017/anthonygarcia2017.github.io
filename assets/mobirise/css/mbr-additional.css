@@ -699,6 +699,10 @@ h6,
 #menu-m .dropdown-item[aria-expanded="true"] {
   color: #c1c1c1!important;
 }
+#msg-box8-3w .mbr-section-title,
+#msg-box8-3w p {
+  color: #fff;
+}
 #header5-3t .mbr-section-title {
   color: #000000;
 }
