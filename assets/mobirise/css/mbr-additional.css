@@ -715,6 +715,13 @@ h6,
 #header5-3u .mbr-section-lead {
   color: #000000;
 }
+#msg-box8-3x .mbr-section-title,
+#msg-box8-3x p {
+  color: #fff;
+}
+#msg-box8-3x .lead {
+  color: #ffffff;
+}
 #contacts3-2d SPAN {
   color: #ffffff;
 }
